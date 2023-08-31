@@ -90,7 +90,7 @@ if result:
     elif out_lang == "Español":
         output_language = "es"
     elif in_lang == "Frances":
-        input_language = "fr""
+        input_language = "fr"
     elif out_lang == "Coreano":
         output_language = "ko"
     elif out_lang == "Mandarín":
